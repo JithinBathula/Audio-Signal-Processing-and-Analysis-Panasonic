@@ -7,3 +7,5 @@ Resources used:
 - Youtube For learning about Scipy.io
 - PyPi for documentation related to webrtcvad
 - Python Libraries - numpy, pandas, scipy.io, matplotlib, webrtcvad
+
+Open the ipynb file to see the plots and results
